@@ -1,2 +1,1 @@
-This is for CSS Zen Garden
-Following a typography tutorial
+Template for CSS Zen Garden.
